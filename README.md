@@ -1,3 +1,3 @@
 # Framebyte
 
-Some company introduction here :
+Some company introduction here :)
